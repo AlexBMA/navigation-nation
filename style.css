@@ -3,11 +3,12 @@
 :root {
   --primaryColor: #fff;
   --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor2: #AA7039;
+  --navColor3: #AA8739;
+  --navColor4: #2F3F73;
+  --navColor5: #255E69;
 }
+
 
 html {
   box-sizing: border-box;
